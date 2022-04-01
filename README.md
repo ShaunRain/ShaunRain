@@ -1,4 +1,11 @@
-### Hi there 👋
+👻 Hey!
+
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=shaunrain&show_icons=true&include_all_commits=true&count_private=true&theme=panda&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+
+I am a professional Android Developer.
+
+- 🍄 I’m starting a career in <b>Hang Zhou, China.</b>
+
 
 <!--
 **ShaunRain/ShaunRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
